@@ -1,2 +1,2 @@
 # api-docs
-dokumentasi api waktu sholat
+silakan baca dokumentasi api waktu sholat di [halaman dokumentasi](https://api.digitalmasjid.id/dokumentasi)
